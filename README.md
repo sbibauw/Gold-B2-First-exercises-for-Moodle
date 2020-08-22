@@ -18,3 +18,7 @@ En español:
 - [GIFT Question Validator](https://fuhrmanator.github.io/GIFT-grammar-PEG.js/editor/editor.html) by Cris Fuhrman
 - [GIFT WYSIWYG Question Editor plug-in for Google Forms](https://gsuite.google.com/marketplace/app/gift_quiz_editor/1038395345285) by Cris Fuhrman
 - [Plantilla Word para crear bancos de preguntas para Moodle](https://github.com/juacas/MoodleQUIZ_template_UVa)
+
+Editor de texto recomendado:
+
+- [Visual Studio Code](https://code.visualstudio.com/) + instalar la extensión [GIFT Language Pack](https://marketplace.visualstudio.com/items?itemName=ethan-ou.vscode-gift-pack)
