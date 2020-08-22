@@ -1,4 +1,4 @@
-# Gold-B2-First-exercises-for-Moodle
+# _Gold B2 First_ exercises for Moodle
 Converting exercises from Gold B2 First (English textbook) to Moodle GIFT/Cloze formats
 
 
