@@ -22,3 +22,7 @@ En español:
 Editor de texto recomendado:
 
 - [Visual Studio Code](https://code.visualstudio.com/) + instalar la extensión [GIFT Language Pack](https://marketplace.visualstudio.com/items?itemName=ethan-ou.vscode-gift-pack)
+
+## A propósito de Github
+
+- [Guía sobre Git y GitHub](https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github)
