@@ -1,35 +1,11 @@
-::U6 p68-69 ProgressTest2 1 Multiple-choice cloze:: 1 For questions 1-8,read the text below and decide
-which answer(A, B, C or D) best fits in each gap. There is an exampleat the beginning.
+::U6 p68-69 ProgressTest2 1 Multiple-choice cloze::For the following questions, read the text below and decide
+which answer best fits in each gap. There is an exampleat the beginning.
 
-Graffiti: Art or crime?
-C,.term.. ‘graffiti’ was originally used by
-eesto describe the wordsand pictures
-scratched on walls by the Greeks and Romans.
-However, graffiti took  {1:MULTICHOICE:=A~B~C~D} anew meaning
-in the mid-1960s whenit was used as a meansof
-political communication and resistance. Since then
-many countries have madegraffiti — which can
- {2:MULTICHOICE:~A=B~C~D} eme a lot of time and money to remove
-from buildings illegal.
-Morerecently, though, urban artis {3:MULTICHOICE:=A~B~C~D}
-recognition as a form of cultural expression. Walking
-through thestreets of Barcelona, to  {4:MULTICHOICE:~A=B~C~D} just
-one of manycities, the graffiti there immediately
- {5:MULTICHOICE:~A~B=C~D} your eye {6:MULTICHOICE:~A=B~C~D} wees , somemcities, such as
-BuenosAires, take advantage ofthe interest in graffiti
-by organising a {7:MULTICHOICE:~A~B=C~D} for tourists around its
-colourful streets.
-Graffiti artists are now being encouragedto display
-their work in galleries, whichis  {8:MULTICHOICE:=A~B~C~D} people ask
-themselves whethergraffiti, whenit is legal, should
-be renamedstreetart.
+<h4>Graffiti: Art or crime?</h4>
 
-1 A on B over C in D round
-2 A need B take C use D want
-3 A gaining B gathering C collecting D having
-4 A say B name C tell D call
-5 A takes B pulls C catches D interests (16)
-6 A Nonetheless B In fact C Otherwise D After all
-7 A journey B travel C tour D voyage
-8 A making B forcing C causing D starting
+<p>The <strike><i>title</i></strike> / <strike><i>label</i></strike> / <b><i>term</i></b> / <strike><i>phrase</i></strike> 'graffiti' was originally used by archaeologists to describe the words and pictures scratched on walls by the Greeks and Romans. However, graffiti took {1:MC:~=on~over~in~round} a new meaning in the mid-1960s when it was used as a means of political communication and resistance. Since then many countries have made graffiti – which can {1:MC:~need~=take~use~want} a lot of time and money to remove from buildings – illegal.</p>
+
+<p>More recently, though, urban art is {1:MC:~=gaining~gathering~collecting~having} recognition as a form of cultural expression. Walking through the streets of Barcelona, to {1:MC:~say~=name~tell~call} just one of many cities, the graffiti there immediately {1:MC:~takes~pulls~=catches~interests} your eye. {1:MC:~Nonetheless~=In fact~Otherwise~After all}, some cities, such as Buenos Aires, take advantage of the interest in graffiti by organising a {1:MC:~journey~travel~=tour~voyage} for tourists around its colourful streets.</p>
+
+<p>Graffiti artists are now being encouraged to display their work in galleries, which is {1:MC:~=making~forcing~causing~starting} people ask themselves whether graffiti, when it is legal, should be renamed street art.</p>
 
