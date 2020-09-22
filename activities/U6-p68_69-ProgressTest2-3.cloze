@@ -1,40 +1,6 @@
-::U6 p68-69 ProgressTest2 3 Word formation::
-// CLOZE
-
-For questions 17-24,read the text below.
-Use the wordgivenin capitals at the end of
-someofthe lines to form a wordthatfits in
-the gap in the sameline. There is an example
+::U6 p68-69 ProgressTest2 3 Word formation::Read the text below. Use the word given in capitals after each gap to form a word that fits in the gap in the sameline. There is an example
 at the beginning.
 
+<h4>Anyone for bugs?</h4>
 
-Anyonefor bugs?
-In the kitchen of the Archipelago
-restaurant in London, the head chef
-is making final (0)  preparations. to                         PREPARE
-one of the salads that has helped
-to make his restaurant so famous.
-Taking a wokoffthe stove, he spoons
-a {17:SHORTANSWER:=spicy} red sauce                           SPICE
-onto a bed of salad leaves. At first
-{18:SHORTANSWER:=sigth} , this could be                         SEE
-any other Thai salad, with its
-chilli, garlic and many other
-{19:SHORTANSWER:=colourful} coos, ingredients. But              COLOUR
-it’s notlong before you can recognise
-the shape of an insect — the thin
-legs, huge eyes and long tail of a
-locust. The less {20:SHORTANSWER:=adventurous}              ADVENTURE
-among us would not be too keen
-on eating insects such as locusts
-and crickets but they are, in fact,
-{21:SHORTANSWER:=surprisingly}  tasty. Many                 SURPRISE
-people find the ideaofeating insects
-{22:SHORTANSWER:=fascinating}  However, for                 FASCINATE
-around 2.5 billion of the world’s
-population, insects like these form
-part oftheir {23:SHORTANSWER:=daily=everyday} diet           DAY
-THIS. 1 WARY {24:SHORTANSWER:=fortunate} as                 FORTUNE
-they are low in fat, high in protein
-and full of vitamins as well as being
-energy efficient.
+<p>In the kitchen of the Archipelago restaurant in London, the head chef is making final <i><u>preparations</u></i> <b>(PREPARE)</b> to one of the salads that has helped to make his restaurant so famous. Taking a wok off the stove, he spoons a {1:SA:~=spicy} <b>(SPICE)</b> red sauce onto a bed of salad leaves. At first {1:SA:~=sight} <b>(SEE)</b>, this could be any other Thai salad, with its chilli, garlic and many other {1:SA:~=colourful} <b>(COLOUR)</b> ingredients. But it's not long before you can recognise the shape of an insect – the thin legs, huge eyes and long tail of a locust. The less {1:SA:~=adventurous} <b>(ADVENTURE)</b> among us would not be too keen on eating insects such as locusts and crickets but they are, in fact, {1:SA:~=surprisingly} <b>(SURPRISE)</b> tasty. Many people find the idea of eating insects {1:SA:~=fascinating} <b>(FASCINATE)</b>. However, for around 2.5 billion of the world's population, insects like these form part of their {1:SA:~=daily~=everyday} <b>(DAY)</b> diet. This is very {1:SA:~=fortunate} <b>(FORTUNE)</b> as they are low in fat, high in protein and full of vitamins as well as being energy efficient.</p>
